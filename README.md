@@ -1,6 +1,6 @@
 # Python Concepts Learning Hub 🚀
 
-![Banner]("C:/Users/raven/OneDrive/Imágenes/Capturas de pantalla/Captura de pantalla 2025-03-25 132750.png")
+![Banner]("assets/images/banner.png")
 
 ## 📌 About This Repository
 Welcome to the **Python Concepts Learning Hub**! This repository is designed to provide **clear, structured, and practical examples** of fundamental and advanced Python concepts.
