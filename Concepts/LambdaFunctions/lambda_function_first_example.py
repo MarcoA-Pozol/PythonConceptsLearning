@@ -20,4 +20,13 @@ sum_numbers = lambda a, b: a + b
 print(f'Lambda function: {sum_numbers(5, 10)}')
 
 
-# Both normal and lambda functions do the same, but lambda is most suitable for this simple case, resuming the lines of code we have to write down.
+""" 
+    Both normal and lambda functions do the same, but lambda is most suitable for this simple case, resuming the lines of code we have to write down.
+    
+    From:
+    def sum_numbers(a, b):
+        return a + b
+    
+    To:
+    sum_numbers = lambda a, b: a + b
+"""
