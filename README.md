@@ -1,6 +1,6 @@
 # Python Concepts Learning Hub 🚀
 
-![Banner](assets/images/banner.png)
+![Banner](assets/images/banner2.png)
 
 ## 📌 About This Repository
 Welcome to the **Python Concepts Learning Hub**! This repository is designed to provide **clear, structured, and practical examples** of fundamental and advanced Python concepts.
