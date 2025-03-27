@@ -4,7 +4,7 @@
 	When using a custom index, it´s neccesary to define every value of the index, this is ovewhelming, we can automate this with an
 	index_generation function.
     
-    Obtain custom indexes like "a, b, c, d...aa, ab, ac, ad....aaa, aab, aac, aad" automatically generated.
+    Obtain custom indexes like "a, b, c, d...aa, ab, ac, ad...ba, bb, bc, bd" automatically generated.
 """
 import pandas as pd
 import string
