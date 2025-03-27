@@ -3,6 +3,8 @@
 	
 	When using a custom index, it´s neccesary to define every value of the index, this is ovewhelming, we can automate this with an
 	index_generation function.
+    
+    Obtain custom indexes like "a, b, c, d...aa, ab, ac, ad....aaa, aab, aac, aad" automatically generated.
 """
 import pandas as pd
 import string
@@ -35,7 +37,7 @@ def index_generation(n:int):
     
 # Pandas series object
 
-weights = [70, 95, 68, 60, 84, 70, 92, 72, 69, 95, 83, 87, 84, 78, 94]
+weights = [70, 95, 68, 60, 87, 109, 84, 70, 92, 72, 69, 104, 95, 83, 87, 84, 78, 94, 78, 59, 73, 76, 98, 106, 78, 84, 102, 75, 82, 95, 99, 79, 88, 60]
 
 weights_series = pd.Series(data=weights, index=index_generation(len(weights)))
 
